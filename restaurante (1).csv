@@ -1,0 +1,51 @@
+Id,Nombre,Ubicación,Menu_Resumido,Horario_apertura,Horario_cierre
+2c17f040-2d81-4b5e-a57c-f2762bef9a45,Ristorante Italiano 1,USNS Smith FPO AE 24873,"['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",10:00,22:00
+c57fcc88-cf3a-4b66-8d09-a07780c97a48,Ristorante Italiano 2,"PSC 0250, Box 4792 APO AE 64976","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00
+c48cb7a9-005c-417a-9b76-2efa4870c6d4,Ristorante Italiano 3,"4599 Dudley Extension Apt. 767 Nicolebury, FL 98506","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+b7481301-9464-4d7b-933c-44660986e4b4,Ristorante Italiano 4,"290 James Landing Wardport, DC 40055","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00
+7e28b3ca-5982-4c7f-8d09-5f1e05c610ff,Ristorante Italiano 5,"9207 Alvarez Spurs Lake Nicholasmouth, NY 76964","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",10:00,22:00
+0d8cd5f4-7dcc-4021-b8ea-3af543ed4d87,Ristorante Italiano 6,"65198 Mcdonald Falls Suite 823 Kellyborough, MO 23955","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",11:00,23:00
+ae092253-7a45-4d02-890c-7554c9b401c2,Ristorante Italiano 7,"9826 Samantha Pass Apt. 031 North Stephen, WI 41588","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+f5e5b469-5cd9-43de-a54f-8e01b7b071af,Ristorante Italiano 8,Unit 1856 Box 4764 DPO AP 36725,"['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+42d800b7-87c9-4390-af08-5f7ecb3bc9b2,Ristorante Italiano 9,"978 Michael Radial Apt. 648 Michelleburgh, OR 16580","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+46064600-49ab-4367-9a8c-ee9ca8a9f6a8,Ristorante Italiano 10,"PSC 6713, Box 4658 APO AP 26522","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",11:00,23:00
+2b224bd3-395c-4095-95f7-d247bd771fd6,Ristorante Italiano 11,"75702 Erica Prairie East Nataliefurt, SC 57711","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+3ff77e36-4091-4e5c-81e9-e007914c3fd6,Ristorante Italiano 12,USS Barron FPO AE 23201,"['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",11:00,23:00
+41d7ce64-51b2-4c41-9b21-b8af1bb6efd1,Ristorante Italiano 13,"PSC 9061, Box 1693 APO AP 74537","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+8b25c3f6-09db-4aa3-a246-c57b49d1cb44,Ristorante Italiano 14,"3844 Taylor Bridge Apt. 985 North Jesse, CA 36282","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00
+a4a295ce-ba6f-41b4-b882-e108c7ffb449,Ristorante Italiano 15,USS Singh FPO AP 84861,"['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+d525f908-7a19-4f21-bb5b-6c2f40c3fbc3,Ristorante Italiano 16,"5452 Mccoy Drive Millerchester, NJ 98039","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00
+99f6338f-f749-4d7b-94c9-3eb66161bb49,Ristorante Italiano 17,"57796 James Ville South Rossmouth, MO 37837","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+fe0eefd1-ac87-423d-9dec-a7ae280cf644,Ristorante Italiano 18,"9329 Blanchard Village South Edward, FL 84732","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00
+a1d02fa4-9b52-440a-a9a9-3e022656a9c7,Ristorante Italiano 19,USCGC Thomas FPO AE 67259,"['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",10:00,22:00
+9eacab90-9ace-4171-a16f-69f60efd181a,Ristorante Italiano 20,"30597 Jacob Park Kimberlyland, NJ 40164","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+6a134188-5bb8-4df5-b3bf-42e5416206d6,Ristorante Italiano 21,"5386 Huber Orchard Suite 700 East Scott, MD 71279","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",10:00,22:00
+f5128567-4d8b-41e2-a6c7-4c29ff763620,Ristorante Italiano 22,"5404 Decker Extension Kristenview, AL 96602","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+af79c6f1-e487-48e2-841b-c440ba579b65,Ristorante Italiano 23,"02539 Brian Garden Apt. 170 Hernandezberg, KS 81658","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+15eb6e7f-9356-4363-8557-0bad7f4a7d02,Ristorante Italiano 24,"0549 Lynch Extensions Apt. 412 Lake Whitney, MA 85306","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00
+cf1a2de9-a391-468b-a21b-285c60dd2ad6,Ristorante Italiano 25,"0790 Horton Orchard Port Jeremy, RI 50530","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+27b32184-6104-4fa9-b1e4-1a3ac5b90a78,Ristorante Italiano 26,Unit 1197 Box 5164 DPO AA 13270,"['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+532e5eb7-fd11-4e36-ba56-62a926d974ca,Ristorante Italiano 27,"PSC 4121, Box 2562 APO AP 01899","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+b2e5baf8-b17c-4e2d-b8e1-dfdeee73d34e,Ristorante Italiano 28,"3373 Garcia Harbors East Juan, ID 83853","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+8e34d8e9-8706-4bea-9793-3513a193472b,Ristorante Italiano 29,"041 Jeffrey Junctions Deborahbury, PA 61986","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+3de67ffd-19ff-4788-ad8f-eea1b2d27141,Ristorante Italiano 30,"020 Myers Spur Suite 541 Derekborough, NM 35998","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+7039295a-cc05-4cf3-bd92-e4f608828204,Ristorante Italiano 31,"6386 Brian Highway New Josephchester, OK 67279","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+96fcfaa3-b08d-46d4-9a26-347e185232b1,Ristorante Italiano 32,"85440 Michael Court Apt. 255 South Kaitlynbury, ID 40049","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",11:00,23:00
+811bb9f5-e114-4fdf-9cce-9c678b84eef5,Ristorante Italiano 33,"5782 Mason Pines Apt. 428 Lake Williamburgh, MO 61497","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+0ebb1b84-b613-40d2-a904-05aa753abd73,Ristorante Italiano 34,"64743 Mitchell Expressway Apt. 606 Annport, WY 66127","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+7edd49c1-d5ce-4e36-ad4f-8d27a37bfd08,Ristorante Italiano 35,"08174 Janice Park Leetown, MO 24874","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+ef461665-306e-421f-9e53-323725c55506,Ristorante Italiano 36,"6266 Jeffrey Path North Matthew, ME 78894","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00
+e66aa94b-2722-4987-8c25-c079ca97648f,Ristorante Italiano 37,"15077 King Pines Apt. 189 South Ellen, PA 44882","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+a3a91e87-9953-427b-aa81-38ca264c61e5,Ristorante Italiano 38,"233 Jeffrey Via Apt. 397 Port Maryfurt, LA 00520","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00
+7a6623de-7a97-4aa0-8760-c03af21d2ad7,Ristorante Italiano 39,"710 Moore Land Apt. 984 Lake Joseborough, IN 51726","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",10:00,22:00
+d1cfab4f-796a-4386-8ad9-8eabd208a20c,Ristorante Italiano 40,"609 Matthew Landing Apt. 382 Port Kennethburgh, TN 69691","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",11:00,23:00
+e53822af-4d04-4535-8d0f-301bb4be35df,Ristorante Italiano 41,"563 Myers Rue Apt. 033 North Adrienne, MI 11997","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",10:00,22:00
+94c8a769-8529-4c93-9d3e-3b7f8fcb9365,Ristorante Italiano 42,"108 Wang Union East Patty, SC 70436","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",11:00,23:00
+bf9b5d31-57c4-4f45-a5ea-f6d9d03c6f49,Ristorante Italiano 43,"12057 Dennis Rapids Bellville, MT 27219","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+bebf81a3-c35d-4c3f-95fd-6a0f26383d82,Ristorante Italiano 44,"077 Miles Course Jenniferstad, FL 55841","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+23bda8cf-6a36-4367-bc7f-250b4a18ac8a,Ristorante Italiano 45,"10837 Padilla Spring South James, IN 99490","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+1e9c6f7a-bba7-47b5-81a8-3255e923cf3f,Ristorante Italiano 46,"267 Abigail Place Evansside, IA 62152","['Pizza Margherita', 'Pasta Carbonara', 'Ensalada Caprese']",11:00,23:00
+c072c80c-d05a-4124-8e5d-8c2ed4c012ea,Ristorante Italiano 47,"36202 Walker Rapid Lisachester, OH 39809","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+c8357d6d-9338-427d-9768-7b8afecef041,Ristorante Italiano 48,"3075 Tara Tunnel Suite 632 North Robert, OR 18059","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",11:00,23:00
+f5495df0-ea22-41eb-b889-c92ccdc3f30f,Ristorante Italiano 49,"8749 Moran Landing Lake Stephenmouth, MD 90223","['Pizza Margherita', 'Ravioli Ricotta', 'Bruschetta']",10:00,22:00
+a00223c6-8121-48ca-b37e-9fb150a736dc,Ristorante Italiano 50,"0608 Stevens Squares Harperstad, WI 31470","['Pizza Quattro Formaggi', 'Pasta al Pesto', 'Caprese']",11:00,23:00

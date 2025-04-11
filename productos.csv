@@ -1,0 +1,51 @@
+Id,Nombre,Descripción,Precio,Categoría,Ingredientes,Disponible
+e1fe1649-7799-4cd1-a87d-ab6081a92c0b,Pizza Margherita,"Pizza clásica con tomate, mozzarella y albahaca.",12.5,Plato,"['Tomate', 'Mozzarella', 'Albahaca']",False
+4388337f-0ce7-4b35-a7c3-8bdb4ec3546c,Pizza Pepperoni,"Pizza con pepperoni extra, tomate y queso.",14.0,Plato,"['Tomate', 'Queso', 'Pepperoni']",True
+ab4d71e7-aebf-4b8e-95af-0cf7a9ab378b,Pasta Carbonara,Pasta en salsa carbonara cremosa con tocino.,11.0,Plato,"['Pasta', 'Huevo', 'Tocino', 'Queso Parmesano']",True
+074bdfff-be6c-41bb-819a-f89a21c218e1,Pasta al Pesto,Pasta con salsa pesto de albahaca y piñones.,10.5,Plato,"['Pasta', 'Albahaca', 'Piñones', 'Queso Parmesano']",False
+799371fc-0f2f-427c-a254-469562ef40ec,Lasagna Tradicional,"Lasagna con capas de carne, queso y salsa de tomate.",13.0,Plato,"['Carne', 'Queso', 'Pasta', 'Tomate']",True
+c372cfcd-0295-451b-9e98-19ff0e29b250,Espresso,Café espresso fuerte e intenso.,3.0,Bebida,['Café'],True
+f73c102e-07ba-4543-bb06-d25deb083b68,Ensalada Caprese,"Ensalada fresca con tomate, mozzarella y albahaca.",8.0,Entrante,"['Tomate', 'Mozzarella', 'Albahaca', 'Aceite de Oliva']",False
+b58fe874-fe7a-4b02-8b21-fdae98ade924,Tiramisu,Postre italiano con capas de mascarpone y café.,6.5,Postre,"['Mascarpone', 'Café', 'Bizcocho', 'Cacao']",True
+cd52189f-6c37-4b75-8cc1-31b51ed286c3,Pizza Margherita,"Pizza clásica con tomate, mozzarella y albahaca.",12.5,Plato,"['Tomate', 'Mozzarella', 'Albahaca']",True
+c2db1311-db46-449d-9c1b-ecf4b3d2b1b3,Pizza Pepperoni,"Pizza con pepperoni extra, tomate y queso.",14.0,Plato,"['Tomate', 'Queso', 'Pepperoni']",False
+132a2386-3d13-49a1-a599-0a9630d1e99a,Pasta Carbonara,Pasta en salsa carbonara cremosa con tocino.,11.0,Plato,"['Pasta', 'Huevo', 'Tocino', 'Queso Parmesano']",True
+ee9c8a1c-b44b-4bee-8c53-124f3098f46e,Pasta al Pesto,Pasta con salsa pesto de albahaca y piñones.,10.5,Plato,"['Pasta', 'Albahaca', 'Piñones', 'Queso Parmesano']",True
+7dc55ca4-1978-4e86-887f-5b9cdf040d03,Lasagna Tradicional,"Lasagna con capas de carne, queso y salsa de tomate.",13.0,Plato,"['Carne', 'Queso', 'Pasta', 'Tomate']",False
+53a78f86-50cc-49a4-be00-59e4e18810a9,Espresso,Café espresso fuerte e intenso.,3.0,Bebida,['Café'],True
+bf27b2a5-1d91-41f8-acad-c5d57b841655,Ensalada Caprese,"Ensalada fresca con tomate, mozzarella y albahaca.",8.0,Entrante,"['Tomate', 'Mozzarella', 'Albahaca', 'Aceite de Oliva']",True
+a8ed2e93-f6fb-49c6-9ddc-5c15072cc72e,Tiramisu,Postre italiano con capas de mascarpone y café.,6.5,Postre,"['Mascarpone', 'Café', 'Bizcocho', 'Cacao']",False
+9ef4b12f-1d4f-4dfa-a238-8f1b54e76427,Pizza Margherita,"Pizza clásica con tomate, mozzarella y albahaca.",12.5,Plato,"['Tomate', 'Mozzarella', 'Albahaca']",True
+d3853a32-761f-4918-8eff-b72524ffcc20,Pizza Pepperoni,"Pizza con pepperoni extra, tomate y queso.",14.0,Plato,"['Tomate', 'Queso', 'Pepperoni']",True
+a5ecaf37-3b4b-4193-87a1-599b15311ea5,Pasta Carbonara,Pasta en salsa carbonara cremosa con tocino.,11.0,Plato,"['Pasta', 'Huevo', 'Tocino', 'Queso Parmesano']",False
+92a61065-fbb4-4cb1-b5fa-050ca37ae3a6,Pasta al Pesto,Pasta con salsa pesto de albahaca y piñones.,10.5,Plato,"['Pasta', 'Albahaca', 'Piñones', 'Queso Parmesano']",True
+716ef90d-f2c5-4fb0-8684-e3b38d8964e5,Lasagna Tradicional,"Lasagna con capas de carne, queso y salsa de tomate.",13.0,Plato,"['Carne', 'Queso', 'Pasta', 'Tomate']",True
+37e8054a-29a2-47fb-8c07-15937cea6494,Espresso,Café espresso fuerte e intenso.,3.0,Bebida,['Café'],False
+c722e00c-1aca-46e5-890f-ab08fcb0ded7,Ensalada Caprese,"Ensalada fresca con tomate, mozzarella y albahaca.",8.0,Entrante,"['Tomate', 'Mozzarella', 'Albahaca', 'Aceite de Oliva']",True
+d3504e4d-6f7b-442d-8cdc-69b006d36445,Tiramisu,Postre italiano con capas de mascarpone y café.,6.5,Postre,"['Mascarpone', 'Café', 'Bizcocho', 'Cacao']",True
+a3d5e61e-334c-403f-9d29-503312c02ac9,Pizza Margherita,"Pizza clásica con tomate, mozzarella y albahaca.",12.5,Plato,"['Tomate', 'Mozzarella', 'Albahaca']",False
+bc0d0f9c-1a5e-41b3-99f5-c82a0a391a4c,Pizza Pepperoni,"Pizza con pepperoni extra, tomate y queso.",14.0,Plato,"['Tomate', 'Queso', 'Pepperoni']",True
+c7fe1f6d-dc8b-4e12-bef3-2aaf860b5f5f,Pasta Carbonara,Pasta en salsa carbonara cremosa con tocino.,11.0,Plato,"['Pasta', 'Huevo', 'Tocino', 'Queso Parmesano']",True
+de5d964f-c630-46c5-8f92-fb2797f3d3af,Pasta al Pesto,Pasta con salsa pesto de albahaca y piñones.,10.5,Plato,"['Pasta', 'Albahaca', 'Piñones', 'Queso Parmesano']",False
+aed2b3c5-48df-49c4-8745-b17cb28e2017,Lasagna Tradicional,"Lasagna con capas de carne, queso y salsa de tomate.",13.0,Plato,"['Carne', 'Queso', 'Pasta', 'Tomate']",True
+5ec619ab-2acb-4368-9ee2-ebadc02f1cbe,Espresso,Café espresso fuerte e intenso.,3.0,Bebida,['Café'],True
+541463b9-7e0b-4abe-95d2-1ce1acb3959b,Ensalada Caprese,"Ensalada fresca con tomate, mozzarella y albahaca.",8.0,Entrante,"['Tomate', 'Mozzarella', 'Albahaca', 'Aceite de Oliva']",False
+5b585da4-0971-4d0a-a505-311b4965dc5c,Tiramisu,Postre italiano con capas de mascarpone y café.,6.5,Postre,"['Mascarpone', 'Café', 'Bizcocho', 'Cacao']",True
+da79e0a1-a2eb-4558-9ad7-2afd6011a64e,Pizza Margherita,"Pizza clásica con tomate, mozzarella y albahaca.",12.5,Plato,"['Tomate', 'Mozzarella', 'Albahaca']",True
+a179933c-0f69-41a5-8b46-ad63d68e65e7,Pizza Pepperoni,"Pizza con pepperoni extra, tomate y queso.",14.0,Plato,"['Tomate', 'Queso', 'Pepperoni']",False
+e41a23c9-0e0b-4bc7-aa56-97b08bafec9e,Pasta Carbonara,Pasta en salsa carbonara cremosa con tocino.,11.0,Plato,"['Pasta', 'Huevo', 'Tocino', 'Queso Parmesano']",True
+367b549f-8cc5-4406-91b3-deb635aadca6,Pasta al Pesto,Pasta con salsa pesto de albahaca y piñones.,10.5,Plato,"['Pasta', 'Albahaca', 'Piñones', 'Queso Parmesano']",True
+c505b81e-5ca5-47a2-be25-c4d80659c796,Lasagna Tradicional,"Lasagna con capas de carne, queso y salsa de tomate.",13.0,Plato,"['Carne', 'Queso', 'Pasta', 'Tomate']",False
+7a818bb9-c87c-4726-b6c5-4a07160a8c32,Espresso,Café espresso fuerte e intenso.,3.0,Bebida,['Café'],True
+408b2a50-ea83-46f6-92fc-3894b2174a25,Ensalada Caprese,"Ensalada fresca con tomate, mozzarella y albahaca.",8.0,Entrante,"['Tomate', 'Mozzarella', 'Albahaca', 'Aceite de Oliva']",True
+8e5cb910-771c-44f0-a027-89e090dab4c7,Tiramisu,Postre italiano con capas de mascarpone y café.,6.5,Postre,"['Mascarpone', 'Café', 'Bizcocho', 'Cacao']",False
+39f9ca4c-892f-4a3e-bad4-ea46b12bc4a9,Pizza Margherita,"Pizza clásica con tomate, mozzarella y albahaca.",12.5,Plato,"['Tomate', 'Mozzarella', 'Albahaca']",True
+36baf675-c1bf-4f4f-af37-d091cf013df7,Pizza Pepperoni,"Pizza con pepperoni extra, tomate y queso.",14.0,Plato,"['Tomate', 'Queso', 'Pepperoni']",True
+f89337cb-535d-4a12-9cdc-3c22a87612f7,Pasta Carbonara,Pasta en salsa carbonara cremosa con tocino.,11.0,Plato,"['Pasta', 'Huevo', 'Tocino', 'Queso Parmesano']",False
+a3091696-6974-41b9-82ac-235312dff7ad,Pasta al Pesto,Pasta con salsa pesto de albahaca y piñones.,10.5,Plato,"['Pasta', 'Albahaca', 'Piñones', 'Queso Parmesano']",True
+cd974d9d-caa4-4c35-92ab-73a257b6feca,Lasagna Tradicional,"Lasagna con capas de carne, queso y salsa de tomate.",13.0,Plato,"['Carne', 'Queso', 'Pasta', 'Tomate']",True
+a9dcc8f0-5800-4be6-a3a6-517b3feea4d7,Espresso,Café espresso fuerte e intenso.,3.0,Bebida,['Café'],False
+8f9c2c43-f5b0-47b3-baec-1f6e640235ec,Ensalada Caprese,"Ensalada fresca con tomate, mozzarella y albahaca.",8.0,Entrante,"['Tomate', 'Mozzarella', 'Albahaca', 'Aceite de Oliva']",True
+efc7ebfb-1fa3-49f6-99ec-68a6b3f95ee4,Tiramisu,Postre italiano con capas de mascarpone y café.,6.5,Postre,"['Mascarpone', 'Café', 'Bizcocho', 'Cacao']",True
+c2fb549b-2323-4f97-a273-aa8d7b22235d,Pizza Margherita,"Pizza clásica con tomate, mozzarella y albahaca.",12.5,Plato,"['Tomate', 'Mozzarella', 'Albahaca']",False
+f7380eff-cf94-4369-9d3b-2939222cbe84,Pizza Pepperoni,"Pizza con pepperoni extra, tomate y queso.",14.0,Plato,"['Tomate', 'Queso', 'Pepperoni']",True
