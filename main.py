@@ -10,7 +10,7 @@ def connect_to_mongo():
     db = client['Proyecto2']
     return db
 
-# Función para cargar el CSV a MongoDB en la colección indicada
+# Funcion para cargar el CSV a MongoDB en la colección indicada
 def upload_csv_to_mongo(csv_file, collection):
     # Cargar los datos del archivo CSV en un DataFrame
     df = pd.read_csv(csv_file)
@@ -20,13 +20,14 @@ def upload_csv_to_mongo(csv_file, collection):
     collection.insert_many(data_dict)
     print(f"{len(data_dict)} documentos insertados en {collection.name}.")
 
-# Definir los archivos CSV y las colecciones
+
 csv_files = {
     'Pedidos': 'pedidos.csv',
     'Productos': 'productos.csv',
     'Reportes': 'reportes.csv',
     'Reseñas': 'reseñas.csv',
-    'Restaurante': 'restaurante (1).csv',
+    'Restaurante': 'restaurante (1).csv', 
+    'Usuario': 'usuario.csv',
    
 }
 
